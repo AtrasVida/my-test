@@ -8,12 +8,12 @@
     android:orientation="vertical">
 
 
-    <com.pintoads.himasdk.custum.CustomVideoPlayer
+    <CustomVideoPlayer
         android:id="@+id/customVideoPlayer"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-    </com.pintoads.himasdk.custum.CustomVideoPlayer>
+    </CustomVideoPlayer>
 
 
     <TextView
